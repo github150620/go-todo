@@ -1,2 +1,2 @@
 # go-todo
-Manage your TODO list with a website.
+A website to manage your TODO list.
